@@ -1,3 +1,4 @@
 # Demo
 Project 2
-created by Shivansh Tandon
+# Author
+created by Shivansh Tandon.
